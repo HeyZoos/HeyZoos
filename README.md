@@ -26,7 +26,7 @@
   </a>
 </div>
 
-##### Helpful Resources
+##### Stuff I like
 
 - [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Helps to understand all the moving pieces in a K8s cluster
 - [Steven Gordon](https://www.youtube.com/@StevenGordonAU) - Great channel for learning about Linux networking
