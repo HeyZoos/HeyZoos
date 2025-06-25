@@ -25,3 +25,8 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+
+##### Helpful Resources
+
+- [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Helps to understand all the moving pieces in a K8s cluster
+- [Steven Gordon](https://www.youtube.com/@StevenGordonAU) - Great channel for learning about Linux networking
