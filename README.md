@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/user-attachments/files/27062507/resume.pdf" target="_blank">
+  <a href="https://github.com/user-attachments/files/27063465/resume.pdf" target="_blank">
     Resume
   </a>
 </div>
